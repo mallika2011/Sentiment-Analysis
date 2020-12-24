@@ -41,4 +41,3 @@ Below are the performance metrics of the classification model
  |   accuracy       |     -      |    -     |0.81    |   818|
  |  macro avg      | 0.81    |  0.81 |     0.81    |   818|
  |weighted avg   |    0.81    |  0.81    |  0.81  |     818|
- |
